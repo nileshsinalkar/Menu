@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="about">About</string>
+    <string name="help">help</string>
+    <string name="copy">copy</string>
+    <string name="delete">delete</string>
+</resources>
